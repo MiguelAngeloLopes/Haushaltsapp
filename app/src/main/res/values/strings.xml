@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Haushaltsapp</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Logout</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_shopping">Einkaufsliste</string>
+    <string name="menu_finanzen">Finanzen</string>
+    <string name="chats">Chats</string>
+    <string name="chat">Chat</string>
+    <string name="supply">Vorrat</string>
+    <string name="add_supplyitem">Vorrat hinzufügen</string>
+    <string name="add_shopping_list">Einkaufsliste erstellen</string>
+    <string name="add_shopping_list_entry">Einkaufslisteneintrag erstellen</string>
+    <string name="add_member">Teilnehmer hinzufügen</string>
+    <string name="name">Name</string>
+    <string name="add_entry">Eintrag hinzufügen</string>
+    <string name="username">Username</string>
+    <string name="register">Registrieren</string>
+    <string name="clear_shopping_list">Einkaufsliste leeren</string>
+    <string name="delete_shopping_list">Einkaufsliste löschen</string>
+    <string name="owner">Besitzer</string>
+    <string name="members">Teilnehmer</string>
+</resources>

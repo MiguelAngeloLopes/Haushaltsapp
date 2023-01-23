@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dropdown">
+        <item>Ausgabe</item>
+        <item>Einkommen</item>
+    </string-array>
+    <string-array name="dropdown_category">
+        <item>Kleidung</item>
+        <item>Gaming</item>
+        <item>Gehalt</item>
+        <item>Shopping</item>
+        <item>Tickets</item>
+        <item>Lebensmittel</item>
+        <item>Sonstiges</item>
+    </string-array>
+
+
+</resources>
