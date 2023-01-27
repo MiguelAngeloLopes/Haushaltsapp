@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "309178001457",
+    "project_id": "haushaltsapp-fa5fd",
+    "storage_bucket": "haushaltsapp-fa5fd.appspot.com"
+  },
+  "client": [
+
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309178001457:android:07f3ece365766860bacd10",
+        "android_client_info": {
+          "package_name": "com.example.haushaltsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309178001457-6nvuohebqqtlq8n4opob4csgl9osq0c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEGhlaR1LrhSgYg7IoNIU8ZD2mQEzAF5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309178001457-6nvuohebqqtlq8n4opob4csgl9osq0c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
